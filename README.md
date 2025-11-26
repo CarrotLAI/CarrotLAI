@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Lester
 🧑 Web developer / IT Programmer<br>🔭 I’m currently working  in FGGC as a Web developer / IT Programmer II<br>🌱 I’m currently learning Azure || Cloud Computing<br>👯 I’m looking for part time as a Front End Web developer
 
 
